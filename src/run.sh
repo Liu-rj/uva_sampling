@@ -1,0 +1,1 @@
+nvcc -rdc=true uvatest.cu -o uvatest -lcudadevrt
